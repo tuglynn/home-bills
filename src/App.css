@@ -1,0 +1,29 @@
+/* Global styles */
+
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+html {
+  font-size: 16px;
+}
+.App {
+  text-align: center;
+}
+
+/* Nav Styles */
+
+.nav {
+  border-bottom: 1px solid rgba(0, 0, 0, .4);
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+.nav-item {
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
