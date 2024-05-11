@@ -10,6 +10,7 @@ class Nav extends React.Component {
                         <li><button className='nav-item'>Home</button></li>
                         <li><button className='nav-item'>Add Bill</button></li>
                         <li><button className='nav-item'>More Info</button></li>
+                        <il><button className='nav-item'>All Bills</button></il>
                     </ul>
                 </nav>
             </div>
